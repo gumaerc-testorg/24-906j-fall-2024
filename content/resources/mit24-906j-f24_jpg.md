@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/the-linguistic-study-of-bilingualism/mit24-906j-f24.jpg
+file: /ol-ocw-studio-app/courses/24-906j-the-linguistic-study-of-bilingualism-fall-2024/mit24-906j-f24.jpg
 file_size: 36294
 file_type: image/jpeg
 image_metadata:
