@@ -6,7 +6,7 @@ draft: false
 title: 'Writing Assignment #3B'
 uid: 44641e61-2c9a-4f4f-8bc5-b02aa6c0dde5
 ---
-Jessica G. Cox, Ashley LaBoda, and Najee Mendes (2020). [“'I’m Gonna Spanglish It on You': Self-Reported vs. Oral Production of Spanish–English Codeswitching."](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/abs/im-gonna-spanglish-it-on-you-selfreported-vs-oral-production-of-spanishenglish-codeswitching/545DF767826D825066FDFD6FEFA5D609) *Bilingualism: Language and Cognition*. 23(2): 446–458.
+Jessica G. Cox, Ashley LaBoda, and Najee Mendes (2020). {{% resource_link "539b8973-7397-477e-8dcd-c5ba1314c60a" "“'I’m Gonna Spanglish It on You': Self-Reported vs. Oral Production of Spanish–English Codeswitching.\"" %}} *Bilingualism: Language and Cognition*. 23(2): 446–458.
 
 In this article, Cox et al. compare self-reported vs. actual oral production of Spanish-English codeswitching. Please read the article critically. In about 500 to 750 words, consider the claims made by the authors and evaluate whether or not the empirical evidence they provide supports their claims. 
 

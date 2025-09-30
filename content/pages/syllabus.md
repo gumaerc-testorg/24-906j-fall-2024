@@ -38,7 +38,7 @@ Late work is unacceptable, since your assignments are designed to feed directly 
 
 #### Communication Element
 
-This is a [Communication Intensive in the Humanities (CI-H)](https://ocw-studio.odl.mit.edu/sites/the-linguistic-study-of-bilingualism/type/page/edit/88a25028-126e-4091-9b52-b86c5ef423d4/Communication%20Intensive%20in%20the%20Humanities) course. What does this mean? One thing it means is that we take your ability to write very seriously. You will have lots of opportunities to write in this class. Each assignment will involve writing. The first assignment will also involve a rewrite of your original submission. Your final project will also provide ample opportunity for extended prose.
+This is a {{% resource_link "1d06bd14-fd97-4c34-a2d7-572f83dad31d" "Communication Intensive in the Humanities (CI-H)" %}} course. What does this mean? One thing it means is that we take your ability to write very seriously. You will have lots of opportunities to write in this class. Each assignment will involve writing. The first assignment will also involve a rewrite of your original submission. Your final project will also provide ample opportunity for extended prose.
 
 Each of your assignments will be commented on both in terms of what you have written as well as how you have written it. We will work with you throughout the semester to help you develop good writing practices. Lots of time and attention will be devoted to this aspect of the class. Please take advantage of all these opportunities. 
 
@@ -64,7 +64,7 @@ Topics and the schedule of development will be discussed in further detail. 
 
 ### Attendance
 
-All students are expected to attend all class meetings. Unexcused absences, late assignments, and lack of preparation for class will significantly affect your final grade. If you have a medical excuse or a counseling dean’s approval, please make sure that I am informed by a dean in [Student Support Services](https://studentlife.mit.edu/s3).
+All students are expected to attend all class meetings. Unexcused absences, late assignments, and lack of preparation for class will significantly affect your final grade. If you have a medical excuse or a counseling dean’s approval, please make sure that I am informed by a dean in {{% resource_link "1e2fb5ed-d51b-4da1-8f8a-3ab376a9e3c7" "Student Support Services" %}}.
 
 - Computers are only for taking notes. Game playing, emailing, texting, etc. are not allowed during class. 
 - All cell phones must remain off during class.
