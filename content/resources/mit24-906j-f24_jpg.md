@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Because of national policies mandating bilingual education, many people
     in Ireland have at least some ability to speak and understand both English and
-    Irish Gaelic. (Photo courtesy of {{% resource_link "9c541ec7-85c7-47dd-8023-216644fc9bcc"
-    "Chris Kealy" %}} on Flickr. License: CC BY-NC-SA.)'
+    Irish Gaelic. (Photo courtesy of [Chris Kealy](https://www.flickr.com/photos/68852079@N03/7439961316)
+    on Flickr. License: CC BY-NC-SA.)'
   credit: 'Photo courtesy of Chris Kealy on Flickr. License: CC BY-NC-SA.'
   image-alt: "A road sign on a wall, surrounded by ivy, with text that reads both\
     \ \"S\xE9ip\xE9al\" and \"Church\""
