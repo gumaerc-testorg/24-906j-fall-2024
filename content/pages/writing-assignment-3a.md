@@ -6,7 +6,7 @@ draft: false
 title: 'Writing Assignment #3A'
 uid: 98ebe643-f6c1-44ee-a6cd-a9559d7fb667
 ---
-Michael Siegal, Luca Surian, Ayumi Matsuo, Alessandra Geraci, Laura Iozzi, Yuko Okumura, and Shoji Itakura (2010). {{% resource_link "fb479d27-b0a4-4de4-9a3b-09834ce6e775" "“Bilingualism Accentuates Children’s Conversational Understanding.”" %}} *PLoS ONE*, 5(2): 1–7. 
+Michael Siegal, Luca Surian, Ayumi Matsuo, Alessandra Geraci, Laura Iozzi, Yuko Okumura, and Shoji Itakura (2010). [“Bilingualism Accentuates Children’s Conversational Understanding.”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2815776/) *PLoS ONE*, 5(2): 1–7. 
 
 Sigal et al. make interesting claims concerning the effects of bilingualism with respect to sensitivity to conversational maxims. In about 500 to 750 words, consider the claims made by the authors and evaluate whether or not the empirical evidence they provide supports their claims. 
 
